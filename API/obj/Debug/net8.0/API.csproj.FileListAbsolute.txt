@@ -31,3 +31,4 @@
 /Users/haidinh/Desktop/dotnetapiblog/API/obj/Debug/net8.0/API.pdb
 /Users/haidinh/Desktop/dotnetapiblog/API/obj/Debug/net8.0/API.genruntimeconfig.cache
 /Users/haidinh/Desktop/dotnetapiblog/API/obj/Debug/net8.0/ref/API.dll
+/Users/haidinh/Desktop/dotnetapiblog/API/obj/Debug/net8.0/API.sourcelink.json
