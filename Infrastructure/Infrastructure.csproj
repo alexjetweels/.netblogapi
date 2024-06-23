@@ -9,7 +9,7 @@
 
     <ItemGroup>
       <Folder Include="Extensions\" />
-      <Folder Include="Persistence\Repositories\" />
+      <Folder Include="Persistence\Migrations\" />
     </ItemGroup>
 
     <ItemGroup>
