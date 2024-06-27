@@ -1,0 +1,15 @@
+/Users/haidinh/Desktop/dotnetapiblog/Domain/bin/Debug/net8.0/Domain
+/Users/haidinh/Desktop/dotnetapiblog/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/haidinh/Desktop/dotnetapiblog/Domain/bin/Debug/net8.0/Domain.runtimeconfig.json
+/Users/haidinh/Desktop/dotnetapiblog/Domain/bin/Debug/net8.0/Domain.dll
+/Users/haidinh/Desktop/dotnetapiblog/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/haidinh/Desktop/dotnetapiblog/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haidinh/Desktop/dotnetapiblog/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/haidinh/Desktop/dotnetapiblog/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/haidinh/Desktop/dotnetapiblog/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/haidinh/Desktop/dotnetapiblog/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/Users/haidinh/Desktop/dotnetapiblog/Domain/obj/Debug/net8.0/Domain.dll
+/Users/haidinh/Desktop/dotnetapiblog/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/haidinh/Desktop/dotnetapiblog/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/haidinh/Desktop/dotnetapiblog/Domain/obj/Debug/net8.0/Domain.genruntimeconfig.cache
+/Users/haidinh/Desktop/dotnetapiblog/Domain/obj/Debug/net8.0/ref/Domain.dll
